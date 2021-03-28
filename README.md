@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @littledesk
+- 👋 Hi, I’m @neurochemistrydude
 - 👀 I’m interested in neuroscience
 - 🌱 I’m currently learning data-science
 - 💞️ I’m looking to collaborate on something cool
